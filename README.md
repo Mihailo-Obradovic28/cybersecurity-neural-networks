@@ -54,7 +54,7 @@ Notebook je podeljen u sledeće celine:
 | DoS Slowhttptest | 5,228 |
 | Heartbleed | 11 |
 
-Problem je formulisan kao **binarna klasifikacija** – Benign (0) vs. Napad (1). Heartbleed klasa nije tretirana zasebno već je uključena u klasu Napad.
+Problem je formulisan kao **binarna klasifikacija** – Benign (0) vs. Napad (1). 
 
 ### Preprocesiranje
 
